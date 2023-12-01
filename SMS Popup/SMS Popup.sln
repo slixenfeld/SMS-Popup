@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS Popup", "SMS Popup\SMS Popup.csproj", "{97CE9312-6808-4D0B-8ED7-60B102152B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CE9312-6808-4D0B-8ED7-60B102152B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CE9312-6808-4D0B-8ED7-60B102152B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CE9312-6808-4D0B-8ED7-60B102152B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CE9312-6808-4D0B-8ED7-60B102152B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B355A125-A27E-474C-B8B5-8CB3B1C1E1DF}
+	EndGlobalSection
+EndGlobal
