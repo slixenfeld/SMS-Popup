@@ -16,10 +16,10 @@ namespace SMS_Popup
 {
     public partial class Popup : Window
     {
-        public Popup(String text)
+        public Popup()
         {
             InitializeComponent();
-            smsBlock.Text = text;
+            new SMSRestClient(this).RequestLastSMS();
             Top = 20;
             Left = 20;
             Show();

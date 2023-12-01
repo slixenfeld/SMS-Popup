@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="SMS" Height="168" Width="364" WindowStyle="SingleBorderWindow">
     <Grid Background="Black">
-        <TextBox x:Name="smsBlock" HorizontalAlignment="Center" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Center" Width="344" Height="122" Background="#FF232323" Foreground="#FFD4D4D4"/>
+        <TextBox x:Name="SMSText" HorizontalAlignment="Center" Text="Initialized" TextWrapping="Wrap" VerticalAlignment="Center" Width="344" Height="122" Background="#FF232323" Foreground="#FFD4D4D4"/>
     </Grid>
 </Window>
