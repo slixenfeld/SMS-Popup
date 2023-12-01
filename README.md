@@ -1,2 +1,2 @@
 # SMS-Popup
-Shows the last received SMS as a popup notification
+Requests the latest SMS from [the webservice](https://github.com/slixenfeld/android_income_sms_gateway_webhook)
