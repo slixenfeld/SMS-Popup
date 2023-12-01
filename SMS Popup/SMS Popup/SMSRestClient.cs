@@ -21,7 +21,7 @@ namespace SMS_Popup
     class SMSRestClient
     {
         static HttpClient client = CreateClient();
-        const string WEBSERVICE_URL = "";
+        const string WEBSERVICE_URL = WS.WS_URL;
 
         string lastMessage = "";
         public string LastMessage
